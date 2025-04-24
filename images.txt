@@ -1,1 +1,2 @@
 docker.io/library/python:3.9-slim
+docker.io/library/python:3.10-slim
