@@ -1,1 +1,1 @@
-nginx
+docker.io/library/python:3.9-slim
